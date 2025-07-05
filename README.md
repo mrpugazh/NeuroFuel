@@ -59,3 +59,25 @@ Enter total energy available: 7
   
    Remaining Energy: 0
 
+##  Real-World Use Cases
+- Autonomous Vehicles
+
+- Drones and UAVs
+
+- AI Wearables and Smart Health Devices
+
+- Neuromorphic Chips
+
+- Smart Homes and Edge Devices
+
+## Future Scope
+
+- Add GUI interface
+
+- Accept real-time sensor data
+
+- Connect with embedded systems
+
+- Extend to multi-objective optimization (e.g., time + priority)
+
+
