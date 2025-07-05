@@ -37,15 +37,15 @@ In AI systems, every task (neuron) consumes energy and has a priority based on i
 Enter number of neurons: 3
 Enter total energy available: 7
 
--Neuron 1:
+- Neuron 1:
   Energy Cost: 3 ,
   Priority Rank: 6
 
--Neuron 2:
+- Neuron 2:
   Energy Cost: 4 ,
   Priority Rank: 7
 
--Neuron 3:
+- Neuron 3:
   Energy Cost: 2 ,
   Priority Rank: 3
 
