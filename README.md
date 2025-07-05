@@ -31,3 +31,31 @@ In AI systems, every task (neuron) consumes energy and has a priority based on i
 - Ideal for **DSA practice**, **CRT training**, and **real-world AI logic modeling**
 
 ---
+
+##  Sample Input
+
+Enter number of neurons: 3
+Enter total energy available: 7
+
+-Neuron 1:
+  Energy Cost: 3 ,
+  Priority Rank: 6
+
+-Neuron 2:
+  Energy Cost: 4 ,
+  Priority Rank: 7
+
+-Neuron 3:
+  Energy Cost: 2 ,
+  Priority Rank: 3
+
+  ## Sample Output
+
+  Optimal Neurons to Activate (based on Priority): [1, 2]
+  
+  Total Priority Achieved: 13
+  
+   Energy Used: 7
+  
+   Remaining Energy: 0
+
