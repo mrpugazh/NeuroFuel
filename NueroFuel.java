@@ -11,7 +11,7 @@ class Neuron {
         this.priorityRank = priorityRank;
     }
 
-    @Override
+    @override
     public String toString() {
         return "Neuron[" + id + "] → Cost: " + energyCost + ", priorityRank: " + priorityRank;
     }
